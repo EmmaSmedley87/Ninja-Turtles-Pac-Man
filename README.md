@@ -25,7 +25,7 @@ This was the first project in General Assembly's Software Engineering Immersive 
 
 **The live version of my game can be found here:** https://emmasmedley87.github.io/Ninja-Turtles-Pac-Man/
 
-![](images/filename%20NinjaTurtlesGame.png)
+![](images/NinjaTurtlesGame.png)
 
 
 ## Brief
