@@ -12,7 +12,7 @@
 
 **Project Overview**
 
-Ninja Turtles Pac Man is as the title suggests a Ninja turtles take on the original Pac Man game. The turtles are craving pizza as usual, the objective of the game is to munch all of the pizzas on the board, but watch out shredder is out to get you!
+Ninja Turtles Pac Man is as the title suggests a Ninja Turtles take on the original Pac Man game. The Ninja Turtles are craving pizza as usual, the objective of the game is to munch all of the pizzas on the board, but watch out shredder is out to get you!
 
 This was the first project in General Assembly's Software Engineering Immersive course. It was vanilla Javascript game built for the browser, indivisually with a timeline of 7 days!
 
