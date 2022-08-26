@@ -21,7 +21,7 @@ This was the first project in General Assembly's Software Engineering Immersive 
 
 - Use the arrow keys to move turtle acround the grid
 - Press an arrow key in the direction you want to move to start game
-
+**The live version of my game can be found here: https://emmasmedley87.github.io/Ninja-Turtles-Pac-Man/
 
 **Brief**
 
