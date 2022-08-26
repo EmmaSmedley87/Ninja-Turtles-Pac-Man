@@ -6,8 +6,6 @@
 - The Brief
 - Technologies Used
 - Approach Taken & Timeline
-- Featured Code
-- Bugs
 - Wins & Challenges
 - Future Content and Improvements
 - Key Learnings
