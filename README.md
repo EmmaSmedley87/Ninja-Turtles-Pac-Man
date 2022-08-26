@@ -80,7 +80,7 @@ Created the grid system layout using an array structure and assigning classes wi
 
 **Day 5/6 Highlights**
 
-Created a function for what happens if turtleGainsKarateBand referencing the turtlePosition and adding a life if turtlePostion equals karateBand position and similarlly a life lost if there is a shredderTurtleCollision and points added if turtlePizzaEaten. Added grid imagery with an if else statement referencing my class lists. Created shredder .random movement around board using shredderPosition. Add basic css styling
+Created a function for what happens if turtleGainsKarateBand referencing the turtlePosition and adding a life if turtlePostion equals karateBand position and similarlly a life lost if there is a shredderTurtleCollision and points added if turtlePizzaEaten. Added grid imagery with an if else statement referencing my class lists. Created shredder .random movement around board using shredderPosition. Add basic CSS styling
 
 **Day 7 Highlights**
 
