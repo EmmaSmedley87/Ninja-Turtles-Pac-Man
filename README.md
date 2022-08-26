@@ -1,6 +1,6 @@
 # Ninja-Turtles-Pac-Man
 
-**Table of Contents
+** **Table of Contents
 
 - Project Overview
 - The Brief
@@ -12,14 +12,14 @@
 - Future Content and Improvements
 - Key Learnings
 
-**Project Overview
+** **Project Overview
 
 Ninja Turtles Pac Man is as the title suggests a Ninja turtles take on the original Pac Man game. The turtles are craving pizza as usual, the objective of the game is to munch all of the pizzas on the board, but watch out shredder is out to get you!
 
 This was the first project in General Assembly's Software Engineering Immersive course. It was vanilla Javascript game built for the browser, indivisually with a timeline of 7 days!
 
 
-**Game Instructions
+** **Game Instructions
 
 - Use the arrow keys to move turtle acround the grid
 - Press an arrow key in the direction you want to move to start game
