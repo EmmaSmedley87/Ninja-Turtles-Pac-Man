@@ -36,7 +36,7 @@ Your app must:
 - Strick with KISS (Keep It Simple Stupid) and DRY (Don't Repeat Yourselves)
 
 
-## Technologies Used**
+## Technologies Used
 
 - HTML5
 - Javascript (ES6)
@@ -58,7 +58,7 @@ I only spent an hour or so brainstorming game ideas before i settled on my Ninja
 
 I created a timeline to ensure i would meet the deadline and achieve my MVP with some time to spare- to allow for any problems that might rise during the game build. I also clearly distinguished my essential features from my 'nice to have's', so i wouldn't take on more than i could achieve within the timeframe, but had noted some cool feature for future improvements.
 
-*Day 2 Highlights*
+**Day 2 Highlights**
 
 For my games MVP i decided that the player must be able to;
 
@@ -72,26 +72,26 @@ For my games MVP i decided that the player must be able to;
 - Not be able to enter Shredder's lair (the 4 squares in the middle of the grid)
 - Know how many lives they have remaining
 
-*Day 3/4 Highlights*
+**Day 3/4 Highlights**
 
 Created the grid system layout using an array structure and assigning classes with the createBoard function and an if else statement to dictate what each square in the grid would hold. Created initial turtle movement around the board (left, right, up and down) with 4 handKeyFuctions that referenced the turtlePosition function via event listeners and would addTurtle or removeTurtle based on the current position and if it was moving to a wall or shreddersLair. Created the ability to freeze Shredder if Shredder 'caught' turtle (by landing on the same square in the grid. This worked by referencing my createBoardFreezeShredderfunction ifTurtleMeetsSplinter, referencing if turtlePosition equals shredderPosition and using a boolean to check if shredderIsFrozen, if true then freezeShredderForFiveSeconds and resetTurtle and resetShredder for continued play. 
 
-*Day 5/6 Highlights*
+**Day 5/6 Highlights**
 
 Created a function for what happens if turtleGainsKarateBand referencing the turtlePosition and adding a life if turtlePostion equals karateBand position and similarlly a life lost if there is a shredderTurtleCollision and points added if turtlePizzaEaten. Added grid imagery with an if else statement referencing my class lists. Created shredder .random movement around board using shredderPosition. Add basic css styling
 
-*Day 7 Highlights*
+**Day 7 Highlights**
 
 Shredder predictave movement added and sorted the turtle pizza removal problem when landing on each grid possition displaying a pizza. (See challenges and wins)
 
 
 ## Wins and Challenges in the Code
 
-**Challenges*
+**Challenges**
 
 Getting the turtle to move in all directions but not through walls and also getting the pizza to 'dissapear' from the screen once the turtle had eaten it- this was actually one of the biggest challenges i overcame during this project.
 
-**Wins*
+**Wins**
 
 A big win for me was getting Shredder to not only randomly appear on a square in a shredderPosition, but to predictivly move Shredder nearer based on the movements that the player chose for the turtlePosition. I was really happy with this as my MVP was for Shredder to just randomly appear in a different box each time turtle moved.
 
