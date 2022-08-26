@@ -13,9 +13,9 @@
 
 ## Project Overview
 
-Ninja Turtles Pac Man is as the title suggests a Ninja Turtles take on the original Pac Man game. The Ninja Turtles are craving pizza as usual, the objective of the game is to munch all of the pizzas on the board, but watch out shredder is out to get you!
+Ninja Turtles Pac Man is as the title suggests a Ninja Turtles take on the original 80's Pac Man game. The Ninja Turtles are craving pizza as usual, the objective of the game is to munch all of the pizzas on the board, but watch out shredder is out to get you!
 
-This was the first project in General Assembly's Software Engineering Immersive course. It was vanilla Javascript game built for the browser, indivisually with a timeline of 7 days!
+This was the first project in General Assembly's Software Engineering Immersive course. It was a vanilla Javascript game built for the browser, individually with a timeline of 7 days!
 
 
 ## Game Instructions
@@ -52,11 +52,11 @@ Your app must:
 
 - Day 1: Planning of project, deciding on MVP
 - Day 6 - MVP achieved
-- Day 7 - Add basic styling and get shredder chasing feature to work
+- Day 7 - Add basic styling and get Shredder chasing feature to work
 
 **Day 1 Highlights**
 
-I only spent an hour or so brainstorming game ideas before i settled on my Ninja Turtles Pac Man idea. As a big fan of 80's style games i thought it was be an enjoyable game to recreate and play. Additionally, as a 2d game without any special effects this choice allowed me to concentrate on solving the problems within the Javascript code without worrying about all the snazzy style bits working- which i thought was important for my first project.
+I only spent an hour or so brainstorming game ideas before i settled on my Ninja Turtles Pac Man idea. As a big fan of 80's style games, i thought it was be an enjoyable game to recreate and play. Additionally, as a 2d game without any special effects this choice allowed me to concentrate on solving the problems within the Javascript code without worrying about all the snazzy style bits working- which i thought was important for my first project.
 
 I created a timeline to ensure i would meet the deadline and achieve my MVP with some time to spare- to allow for any problems that might rise during the game build. I also clearly distinguished my essential features from my 'nice to have's', so i wouldn't take on more than i could achieve within the timeframe, but had noted some cool feature for future improvements.
 
@@ -66,7 +66,7 @@ For my games MVP i decided that the player must be able to;
 
 - Move the turtle in all directions 
 - Get points added for the turtle eating the pizzas
-- Get extra life if land on karate band
+- Get extra life if lands on turtle karate band
 - Not be able to move turtle through walls
 - Loose a life if Shredder landed on turtle
 - Freeze Shredder if land on Master Splinter
@@ -84,14 +84,14 @@ Created a function for what happens if turtleGainsKarateBand referencing the tur
 
 **Day 7 Highlights**
 
-Shredder predictave movement added and sorted the turtle pizza removal problem when landing on each grid possition displaying a pizza. (See challenges and wins)
+Shredder predictive movement added and sorted the turtle pizza removal problem when landing on each grid possition displaying a pizza. (See challenges and wins)
 
 
 ## Wins and Challenges in the Code
 
 **Challenges**
 
-Getting the turtle to move in all directions but not through walls and also getting the pizza to 'dissapear' from the screen once the turtle had eaten it- this was actually one of the biggest challenges i overcame during this project.
+Getting the turtle to move in all directions, but not through walls, and also getting the pizza to 'dissapear' from the screen once the turtle had eaten it- this was actually one of the biggest challenges i overcame during this project.
 
 **Wins**
 
@@ -103,10 +103,10 @@ A big win for me was getting Shredder to not only randomly appear on a square in
 - Inform player of 'game over' if all lives lost
 - Build a start game button
 - Ask if player wants to play again- implement 'play again' button
-- Rules of game pop up implemented 
+- Rules of game 'pop-up' implemented 
 - Fun ninja turtle styling features
-- Nija turtles music playing on entering site
-- Noise and catchphrase words added when land on Master Splinter
+- Ninja turtles theme tune playing on entering site
+- Noise and catchphrase words added when land on Master Splinter or Shredder catches you
 - Chomping noise when turtle 'eats' a pizza
 
 
