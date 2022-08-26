@@ -1,6 +1,6 @@
 # Ninja-Turtles-Pac-Man
 
-** **Table of Contents
+**Table of Contents**
 
 - Project Overview
 - The Brief
